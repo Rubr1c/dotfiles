@@ -25,8 +25,8 @@
 # ==========================
 # # The config file consists of simple key-value pairs,
 # # separated by equals signs.
-font-family = "Monocraft Nerd Font"
-font-style = "Black"
+font-family = "Fira Code"
+font-style = "SemiBold"
 font-size = 14
 background-opacity = 0.5
 # window-padding-x = 2
